@@ -61,3 +61,6 @@ The comparison between SARIMA and Facebook Prophet focused on several key differ
 Ultimately, **Facebook Prophet** was found to be the more effective model for this particular sales forecasting task, given its lower error rate and adaptability to the irregularities in the data. However, **SARIMA** remains a valuable tool, especially when working with simpler, stationary time series where seasonality is consistent.
 
 This project highlights the importance of selecting the right model based on the characteristics of the data and the forecasting requirements.
+
+![download](https://github.com/user-attachments/assets/e1cec6ca-8178-4f29-a57f-85c02c2ff4a8)
+
